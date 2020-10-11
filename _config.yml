@@ -3,8 +3,8 @@ title: lsy Blog
 SEOTitle: 李世昱的博客 | lsy Blog
 header-img: img/home-bg.jpg
 email: shiyuli.lsy@gmail.com
-description: "努力奋斗的星星之火"
-keyword: "大学,计算机,智能媒体"
+description: "努力奋斗的星星之�?"
+keyword: "大学,计算�?,智能媒体"
 url: "https://lllsy12138.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -27,7 +27,7 @@ twitter_username:   huxpro
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md","vendor"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 #timezone: CN  
@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>星星之火，可以燎原"
+sidebar-about-description: "For the next quantum leap<br>星星之火，可以燎�?"
 sidebar-avatar: /img/shay.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
